@@ -1,0 +1,15 @@
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.csproj.AssemblyReference.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.AssemblyInfoInputs.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.AssemblyInfo.cs
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.csproj.CoreCompileInputs.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\bin\Debug\net6.0\cap7ej1.exe
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\bin\Debug\net6.0\cap7ej1.deps.json
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\bin\Debug\net6.0\cap7ej1.runtimeconfig.json
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\bin\Debug\net6.0\cap7ej1.dll
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\bin\Debug\net6.0\cap7ej1.pdb
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.dll
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\refint\cap7ej1.dll
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.pdb
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\cap7ej1.genruntimeconfig.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap7ej1\obj\Debug\net6.0\ref\cap7ej1.dll

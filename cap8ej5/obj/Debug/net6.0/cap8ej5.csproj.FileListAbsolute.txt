@@ -1,0 +1,15 @@
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.csproj.AssemblyReference.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.AssemblyInfoInputs.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.AssemblyInfo.cs
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.csproj.CoreCompileInputs.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\bin\Debug\net6.0\cap8ej5.exe
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\bin\Debug\net6.0\cap8ej5.deps.json
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\bin\Debug\net6.0\cap8ej5.runtimeconfig.json
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\bin\Debug\net6.0\cap8ej5.dll
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\bin\Debug\net6.0\cap8ej5.pdb
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.dll
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\refint\cap8ej5.dll
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.pdb
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\cap8ej5.genruntimeconfig.cache
+C:\Users\alber\Documents\Estudios\Clases_Universidad\Programacion_Aplicada_1\Asignaciones\Cap5-8\cap8ej5\obj\Debug\net6.0\ref\cap8ej5.dll
